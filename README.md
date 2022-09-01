@@ -1,2 +1,2 @@
-# CSS
+# CSS Study
 Patika Homeworks
